@@ -1,4 +1,4 @@
-# Homework_Assignment_4
+# HW4 Instruction
 
 Please see our Topic 4 lecture slide #61 for the details of homework assignment #4. The following is a sample of input for your calculation and output from the program:
 
